@@ -7,7 +7,7 @@ import nltk
 import openai
 import os
 
-openai.api_key = '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'
+openai.api_key = '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'
 nltk.download('stopwords')
 
 

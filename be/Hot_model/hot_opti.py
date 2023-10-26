@@ -6,7 +6,7 @@ from gensim.models import Word2Vec
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import openai
-openai.api_key = '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'
+openai.api_key = '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'
 
 class TweetGenerator:
     def __init__(self, data_file_path):

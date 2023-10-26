@@ -7,7 +7,7 @@ import numpy as np
 import openai
 import os
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 # sentiment_number映射
 def associated_rules(inputtext: list[str]):
